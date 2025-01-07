@@ -5,4 +5,4 @@ Front-side SodiumGUI Notice Repo
 자음 ㄱㄴㄷㄹㅁㅂㅋㅋ
 모음 ㅏㅑㅓㅕㅗ
 숫자 1234560
-UPDATEDAT20250107
+UPDATEDATE20250107
