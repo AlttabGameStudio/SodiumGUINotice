@@ -1,8 +1,5 @@
 # SodiumGUINotice
-Front-side SodiumGUI Notice Repo
-공지 테스트입니다.
-줄바꿈
-자음 ㄱㄴㄷㄹㅁㅂㅋㅋ
-모음 ㅏㅑㅓㅕㅗ
-숫자 1234560
-UPDATEDATE20250107
+안녕하세요.
+SODIUM GUI 베타테스트에 참여해주셔서
+진심으로 감사드립니다.
+재밌게 즐겨주시면 감사하겠습니다.
